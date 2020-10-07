@@ -1,0 +1,7 @@
+Model,Adjusted R-squared,RMSE
+fullModel,0.8190258,4.030796
+EDAModel,0.7107153,5.111013
+BackwardStepModel,0.8192284,4.0313
+forwardStepModel,0.8192284,4.0313
+MixedStepModel,0.8192284,4.0313
+fitModel,0.8101345,4.130748

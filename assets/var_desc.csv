@@ -1,0 +1,23 @@
+No.,Variable,Class,Description
+1,Country,factor,Country name
+2,Year,numeric,Year of the data
+3,Status,factor,Country status of developed or developing
+4,Life_Expectancy,numeric,Life expectancy in age
+5,Adult_Mortality,numeric,Adult Mortality Rates of both sexes (probability of dying between 15 and 60 years per 1000 population)
+6,infant.deaths,numeric,Number of Infant Deaths per 1000 population
+7,Alcohol,numeric,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)"
+8,percentage.expenditure,numeric,Expenditure on health as a percentage of Gross Domestic Product per capita(%)
+9,Hepatitis.B,numeric,Hepatitis B (HepB) immunization coverage among 1-year-olds (%)
+10,Measles,numeric,Measles - number of reported cases per 1000 population
+11,BMI,numeric,Average Body Mass Index of entire population
+12,under.five.deaths,numeric,Number of under-five deaths per 1000 population
+13,Polio,numeric,Polio (Pol3) immunization coverage among 1-year-olds (%)
+14,Total.expenditure,numeric,General government expenditure on health as a percentage of total government expenditure (%)
+15,Diphtheria,numeric,Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)room)
+16,HIV.AIDS,numeric,Deaths per 1 000 live births HIV/AIDS (0-4 years)
+17,GDP,numeric,Gross Domestic Product per capita (in USD)
+18,Population,numeric,Population of the country
+19,thinness..1.19.years,numeric,Prevalence of thinness among children and adolescents for Age 10 to 19 (% )
+20,thinness.5.9.years,numeric,Prevalence of thinness among children for Age 5 to 9(%)
+21,Income.composition.of.resources,numeric,Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
+22,Schooling,numeric,Number of years of Schooling(years)

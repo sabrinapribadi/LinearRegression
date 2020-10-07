@@ -1,0 +1,18 @@
+Packages,Description
+data.table,For data manipulation that can be reducing programming and compute time tremendously
+DT,An R interface to the DataTables library
+kableExtra,Styling an Interactive Data Tables within Markdown
+knitr,A general-purpose tool for dynamic report generation
+tidyverse,"Collection of R packages (tidyr, dplyr, ggplot2) designed for data science that works harmoniously with other packages"
+tidyr,"Changing the layout of the data sets, to convert data into a tidy format"
+dplyr,For data manipulation
+ggplot2,Customizable graphical representation
+caret,For data Pre-Processing and Feature Selection
+psych,"Functions are primarily for multivariate analysis and scale construction using factor analysis, principal component analysis, cluster analysis and reliability analysis"
+stats,Contains functions for statistical calculations and random number generation.
+leaps,"Regression subset selection, including exhaustive search"
+GGally,Extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data.
+MASS,"Functions to support Venables and Ripley, ``Modern Applied Statistics with S'' (4th edition, 2002)"
+lmtest,"A collection of testsfor diagnostic checking in linear regression models. Furthermore, some generic tools for inference in parametric models are provided."
+car,"Functions to Accompany J. Fox and S. Weisberg, An R Companion to Applied Regression, Third Edition, Sage, 2019."
+MLmetrics,"A collection of evaluation metrics, including loss, score and utility functions, that measure regression, classification and ranking performance."
