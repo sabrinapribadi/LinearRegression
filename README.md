@@ -1,4 +1,4 @@
-# **Regression Linear: Life Expectancy** 
+# **Linear Regression: Life Expectancy** 
 
 > This is a project as part of  Learn by Building module in [Algoritma](https://algorit.ma/) Data Science Workshop.
 
