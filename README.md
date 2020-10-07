@@ -9,3 +9,7 @@ The objective of this project is to find the best model to predict Life Expectan
 ### **Dataset**
 
 This project uses the data from [Kumar Rajarshi - Life Expectancy (WHO)](https://www.kaggle.com/kumarajarshi/life-expectancy-who) in [kaggle.com](https://www.kaggle.com) website.
+
+### Rpubs Link
+
+Check the [rpubs](https://rpubs.com/sabrinapribadi/LinearRegression_LifeExpectancy)
