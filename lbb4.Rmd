@@ -191,9 +191,17 @@ Now, let's load the dataset into the R-Environment.
 
 ## Importing Data
 
+
+> <h4>This project aims to build the best model that can predict the Life Expectancy based on he Global Health Observatory (GHO) dataset.</h4>
+
+
 <b><h2>Data Source</h2></b>
 
-This project uses the data from [Kumar Rajarshi - Life Expectancy (WHO)](https://www.kaggle.com/kumarajarshi/life-expectancy-who) in [kaggle.com](https://www.kaggle.com) website. 
+This project uses the data from [Kumar Rajarshi - Life Expectancy (WHO)](https://www.kaggle.com/kumarajarshi/life-expectancy-who) in [kaggle.com](https://www.kaggle.com) website. The data was collected from WHO and United Nations website with the help of Deeksha Russell and Duan Wang.
+
+
+[The Global Health Observatory (GHO) data repository](https://apps.who.int/gho/data/node.main.688) under World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries The data-sets are made available to public for the purpose of health data analysis. The data-set related to life expectancy, health factors for 193 countries has been collected from the same WHO data repository website and its corresponding economic data was collected from United Nation website. Among all categories of health-related factors only those critical factors were chosen which are more representative. It has been observed that in the past 15 years , there has been a huge development in health sector resulting in improvement of human mortality rates especially in the developing nations in comparison to the past 30 years. Therefore, in this project we have considered data from year 2000-2015 for 193 countries for further analysis. The individual data files have been merged together into a single data-set. 
+
 
 
 <b><h2>Read the Data</h2></b>
